@@ -9,7 +9,7 @@ id - volunteers
     
 Activity - Each person perfomed six activities( walking, walking upstairswalking downstairs, sitting, standing, laying)
 
-66 variables, with Mean and Std for every activity and move
+66 variables, with Mean and Std for every activity and move.
 1.  "tbodyaccMean()x" 
 1.  "tbodyaccMean()y" 
 1.  "tbodyaccMean()z" 
