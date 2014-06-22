@@ -7,7 +7,7 @@ This file describe the variables, the data and transformations made to the origi
 
 id - volunteers
     
-Activity - Each person perfomed six activities( walking, walking upstairswalking downstairs, sitting, standing, laying)
+Activity - Each person perfomed six activities( walking, walking upstairswalking downstairs, sitting, standing, laying).
 
 66 variables, with Mean and Std for every activity and move.
 1.  "tbodyaccMean()x" 
