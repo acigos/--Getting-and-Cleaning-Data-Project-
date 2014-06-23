@@ -1,5 +1,6 @@
 
 rm(list = ls())
+library(reshape2)
 #Step 1. Merges the training and the test sets to create one data set
 #setting working directory and files
 setwd("/home/alexander/Escritorio/Data_Scientist_Speciality/Getting and Cleaning Data/Course Project/UCI HAR Dataset/")
